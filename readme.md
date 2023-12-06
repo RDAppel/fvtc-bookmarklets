@@ -7,7 +7,7 @@
 
 2. Click the minified version of the script.
 
-![Step 2](https://raw.githubusercontent.com/RDAppel/fvtc-bookmarklets/master/tutorial-resources/step1.png)
+![Step 2](https://raw.githubusercontent.com/RDAppel/fvtc-bookmarklets/master/tutorial-resources/step2.png)
 
 3. View the raw version of the code, by clicking on the "Raw" button.
 
