@@ -36,3 +36,9 @@
 
 ![Step 8](https://raw.githubusercontent.com/RDAppel/fvtc-bookmarklets/master/tutorial-resources/step8.png)
 
+
+That's it!
+
+# Usage
+
+Go to an assignment that you would like to grade and then click on the Bookmark.
