@@ -1,7 +1,8 @@
 # No Longer Maintained
 
-This code is no longer maintained. Instead use the new versions can be found at [https://rdappel.github.io/bookmarklets-v2/](https://rdappel.github.io/bookmarklets-v2/)
---------------------
+This code is no longer maintained. Instead, use the new versions which can be found [here](https://rdappel.github.io/bookmarklets-v2/)
+
+-----
 
 # Installation Instructions
 
